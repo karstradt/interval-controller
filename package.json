@@ -1,0 +1,20 @@
+{
+  "name": "interval-controller",
+  "version": "1.0.0",
+  "description": "This plugin can start, pause, and resume intervals on desired conditions",
+  "main": "index.js",
+  "scripts": {
+    "test": "node __tests__/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karstradt/interval-controller.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karstradt/interval-controller/issues"
+  },
+  "homepage": "https://github.com/karstradt/interval-controller#readme",
+  "type": "module"
+}
